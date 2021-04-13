@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style/odev2.css">
-    <title>PHP belirli karakter gösteren fonksiyon ile yapılan ödev</title>
+    <title>PHP link ödevi</title>
 </head>
 <body>
 <?php
